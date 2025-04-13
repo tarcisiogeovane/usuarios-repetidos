@@ -9,7 +9,7 @@ O projeto é útil para equipes que gerenciam contatos de influenciadores, permi
 ## Funcionalidades
 
 ### 1. Identificador de Duplicatas (`identificar_duplicatas.py`)
-- **Entrada**: Planilha Excel (ex.: `Influencers_que_já_enviamos_email.xlsx`) com colunas "arroba" e "Quem enviou".
+- **Entrada**: Planilha Excel (ex.: `repetidos.xlsx`) com colunas "arroba" e "Quem enviou".
 - **Processo**:
   - Identifica arrobas duplicados que foram contatados por pessoas diferentes (ignorando variações de maiúsculas/minúsculas, como "Felipe Costa" e "FELIPE COSTA").
   - Ajusta os números das linhas (adiciona +4 para alinhar com linhas do Excel).
