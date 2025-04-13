@@ -1,0 +1,1268 @@
+Duplicatas encontradas (mesmo 'arroba' com diferentes 'Quem enviou'):
+
+Arroba: 1fabiogomes
+Linhas: 2387, 8441
+     arroba  Quem enviou
+1fabiogomes Felipe Costa
+1fabiogomes         Yuna
+
+Arroba: _rafaelacastro
+Linhas: 1994, 10559
+        arroba   Quem enviou
+_rafaelacastro  Felipe Costa
+_rafaelacastro Victor Tapias
+
+Arroba: _tamarakaa
+Linhas: 9445, 10883
+    arroba  Quem enviou
+_tamarakaa       Mylena
+_tamarakaa FELIPE COSTA
+
+Arroba: acamihome
+Linhas: 3656, 7622
+   arroba  Quem enviou
+acamihome Felipe Costa
+acamihome sandi Kaefer
+
+Arroba: adrynhos
+Linhas: 7439, 10892
+  arroba       Quem enviou
+adrynhos Vinicius Nogueira
+adrynhos      FELIPE COSTA
+
+Arroba: ailtonjvnior
+Linhas: 122, 9830
+      arroba    Quem enviou
+ailtonjvnior   Felipe Costa
+ailtonjvnior Jesica Abraham
+
+Arroba: ajuvichagas
+Linhas: 4209, 8958, 10273
+     arroba     Quem enviou
+ajuvichagas    Felipe Costa
+ajuvichagas Eberton Ricardo
+ajuvichagas    FELIPE COSTA
+
+Arroba: aleexiamarina
+Linhas: 4910, 7364
+       arroba      Quem enviou
+aleexiamarina VINICIUS F COSTA
+aleexiamarina           Karine
+
+Arroba: alicegobbibr
+Linhas: 5316, 7082
+      arroba        Quem enviou
+alicegobbibr   Nicolas Brunelli
+alicegobbibr Stella Agostiniana
+
+Arroba: alinibosko
+Linhas: 2958, 9108, 9382, 10954
+    arroba  Quem enviou
+alinibosko Felipe Costa
+alinibosko   Dhiancésar
+alinibosko FELIPE COSTA
+alinibosko FELIPE COSTA
+
+Arroba: allanamenezzes
+Linhas: 4729, 9120, 9932, 10957
+        arroba  Quem enviou
+allanamenezzes Felipe Costa
+allanamenezzes   Dhiancésar
+allanamenezzes FELIPE COSTA
+allanamenezzes FELIPE COSTA
+
+Arroba: allemidaa
+Linhas: 8801, 9465
+   arroba Quem enviou
+allemidaa        Yuna
+allemidaa  Dhiancésar
+
+Arroba: allycia_victoria
+Linhas: 1262, 7282
+          arroba   Quem enviou
+allycia_victoria  Felipe Costa
+allycia_victoria Jerson Brenno
+
+Arroba: alucarva
+Linhas: 7153, 10961
+  arroba  Quem enviou
+alucarva André Santos
+alucarva FELIPE COSTA
+
+Arroba: amandferrari
+Linhas: 1643, 9239
+      arroba  Quem enviou
+amandferrari Felipe Costa
+amandferrari         Yuna
+
+Arroba: amorimrafaela
+Linhas: 8759, 9751
+       arroba    Quem enviou
+amorimrafaela Marina Sanches
+amorimrafaela  Jerson Brenno
+
+Arroba: anaatholl
+Linhas: 10732, 11007
+   arroba    Quem enviou
+anaatholl Ana Lu Acórsi 
+anaatholl  Jerson Brenno
+
+Arroba: anagomory
+Linhas: 50, 11015
+   arroba   Quem enviou
+anagomory  Felipe Costa
+anagomory Jerson Brenno
+
+Arroba: anajulivros
+Linhas: 8426, 8833, 10163
+     arroba   Quem enviou
+anajulivros Monique Balan
+anajulivros    Dhiancésar
+anajulivros  Rafa Marinho
+
+Arroba: analidialopess
+Linhas: 4619, 7212, 9502, 10968
+        arroba    Quem enviou
+analidialopess   Felipe Costa
+analidialopess Vinicius Costa
+analidialopess   FELIPE COSTA
+analidialopess   FELIPE COSTA
+
+Arroba: analouisegadelhaa
+Linhas: 7365, 10570
+           arroba     Quem enviou
+analouisegadelhaa          Karine
+analouisegadelhaa Luidgi Viscardi
+
+Arroba: analuizaandrad
+Linhas: 5553, 10969
+        arroba   Quem enviou
+analuizaandrad Ana Lu Acórsi
+analuizaandrad  FELIPE COSTA
+
+Arroba: anamenezesfit
+Linhas: 10609, 10856
+       arroba     Quem enviou
+anamenezesfit Luidgi Viscardi
+anamenezesfit    FELIPE COSTA
+
+Arroba: anaschr
+Linhas: 5470, 7278
+ arroba   Quem enviou
+anaschr STELLA SANTOS
+anaschr Jerson Brenno
+
+Arroba: anaterra.oli
+Linhas: 5438, 7645
+      arroba   Quem enviou
+anaterra.oli STELLA SANTOS
+anaterra.oli  sandi Kaefer
+
+Arroba: andersonrvs
+Linhas: 2388, 8456
+     arroba  Quem enviou
+andersonrvs Felipe Costa
+andersonrvs         Yuna
+
+Arroba: aninhamarrafa
+Linhas: 8090, 9053
+       arroba  Quem enviou
+aninhamarrafa FELIPE COSTA
+aninhamarrafa       Jesica
+
+Arroba: anjosjeje
+Linhas: 1619, 9237
+   arroba  Quem enviou
+anjosjeje Felipe Costa
+anjosjeje         Yuna
+
+Arroba: annasgeller
+Linhas: 5432, 8580
+     arroba   Quem enviou
+annasgeller STELLA SANTOS
+annasgeller Jerson Brenno
+
+Arroba: annemarrques
+Linhas: 1385, 9865
+      arroba  Quem enviou
+annemarrques Felipe Costa
+annemarrques         Yuna
+
+Arroba: arthurluiscardoso
+Linhas: 3250, 9045, 9476, 11051
+           arroba  Quem enviou
+arthurluiscardoso Felipe Costa
+arthurluiscardoso     Ju Miele
+arthurluiscardoso FELIPE COSTA
+arthurluiscardoso FELIPE COSTA
+
+Arroba: arthurpaek
+Linhas: 5406, 11052
+    arroba   Quem enviou
+arthurpaek STELLA SANTOS
+arthurpaek  FELIPE COSTA
+
+Arroba: balbiguga
+Linhas: 2698, 10831
+   arroba  Quem enviou
+balbiguga Felipe Costa
+balbiguga   Dhiancésar
+
+Arroba: barbramarcondes
+Linhas: 3844, 9093
+         arroba    Quem enviou
+barbramarcondes   Felipe Costa
+barbramarcondes Marina Sanches
+
+Arroba: be.nardin
+Linhas: 5248, 9094
+   arroba    Quem enviou
+be.nardin  Ana Lu Acórsi
+be.nardin Marina Sanches
+
+Arroba: beatrizhessel_
+Linhas: 4441, 10759
+        arroba     Quem enviou
+beatrizhessel_    Felipe Costa
+beatrizhessel_ Eberton Ricardo
+
+Arroba: betaboechat
+Linhas: 8609, 9743
+     arroba  Quem enviou
+betaboechat         Yuna
+betaboechat Rafa Marinho
+
+Arroba: bibibailas
+Linhas: 5128, 10908
+    arroba       Quem enviou
+bibibailas Vinicius Nogueira
+bibibailas     Yuna Horikawa
+
+Arroba: blogliteraturese
+Linhas: 5265, 8830, 9530
+          arroba    Quem enviou
+blogliteraturese Rafael Marinho
+blogliteraturese     Dhiancésar
+blogliteraturese Marina Sanches
+
+Arroba: bruna.araujo
+Linhas: 4072, 9852
+      arroba   Quem enviou
+bruna.araujo  Felipe Costa
+bruna.araujo Jerson Brenno
+
+Arroba: brunapaulareal
+Linhas: 7552, 10612
+        arroba     Quem enviou
+brunapaulareal Eberton Ricardo
+brunapaulareal Luidgi Viscardi
+
+Arroba: brunocampoos
+Linhas: 5219, 9462, 10043, 10807
+      arroba   Quem enviou
+brunocampoos  Felipe Costa
+brunocampoos    Dhiancésar
+brunocampoos  FELIPE COSTA
+brunocampoos Jerson Brenno
+
+Arroba: buenobianca_
+Linhas: 901, 10177
+      arroba   Quem enviou
+buenobianca_  Felipe Costa
+buenobianca_ Jerson Brenno
+
+Arroba: by.motivasa
+Linhas: 7641, 8343
+     arroba    Quem enviou
+by.motivasa   sandi Kaefer
+by.motivasa Marina Sanches
+
+Arroba: caiolo
+Linhas: 8297, 9461
+arroba  Quem enviou
+caiolo FELIPE COSTA
+caiolo   Dhiancésar
+
+Arroba: camilamonteiro
+Linhas: 381, 9032, 10545
+        arroba   Quem enviou
+camilamonteiro  Felipe Costa
+camilamonteiro  FELIPE COSTA
+camilamonteiro Victor Tapias
+
+Arroba: camilatrianda
+Linhas: 9054, 9097
+       arroba    Quem enviou
+camilatrianda         Jesica
+camilatrianda Marina Sanches
+
+Arroba: careca_soso07
+Linhas: 4274, 9385, 10557
+       arroba   Quem enviou
+careca_soso07  Felipe Costa
+careca_soso07  FELIPE COSTA
+careca_soso07 Victor Tapias
+
+Arroba: carinaaravjo
+Linhas: 4505, 7677, 9915
+      arroba   Quem enviou
+carinaaravjo  Felipe Costa
+carinaaravjo karine leite 
+carinaaravjo  FELIPE COSTA
+
+Arroba: carlabeattriz
+Linhas: 724, 9676
+       arroba     Quem enviou
+carlabeattriz    Felipe Costa
+carlabeattriz Eberton Ricardo
+
+Arroba: carolbbdo
+Linhas: 4547, 9867
+   arroba  Quem enviou
+carolbbdo Felipe Costa
+carolbbdo         Yuna
+
+Arroba: caroldelucas
+Linhas: 2314, 9049
+      arroba  Quem enviou
+caroldelucas Felipe Costa
+caroldelucas       Jesica
+
+Arroba: chefjulima
+Linhas: 8254, 10820
+    arroba  Quem enviou
+chefjulima FELIPE COSTA
+chefjulima   Dhiancésar
+
+Arroba: daestrella
+Linhas: 8289, 9998
+    arroba  Quem enviou
+daestrella FELIPE COSTA
+daestrella     Ju Miele
+
+Arroba: dailyyda_ray
+Linhas: 4739, 7676, 10002
+      arroba   Quem enviou
+dailyyda_ray  Felipe Costa
+dailyyda_ray karine leite 
+dailyyda_ray  FELIPE COSTA
+
+Arroba: danifreiredaily
+Linhas: 5384, 7359
+         arroba   Quem enviou
+danifreiredaily STELLA SANTOS
+danifreiredaily        Karine
+
+Arroba: deborastockmanns
+Linhas: 3381, 7588
+          arroba  Quem enviou
+deborastockmanns Felipe Costa
+deborastockmanns Sandi Kaefer
+
+Arroba: dudagabooks
+Linhas: 7484, 9194
+     arroba    Quem enviou
+dudagabooks         karine
+dudagabooks Marina Sanches
+
+Arroba: eduardo.godinho
+Linhas: 10828, 11000
+         arroba   Quem enviou
+eduardo.godinho    Dhiancésar
+eduardo.godinho Jerson Brenno
+
+Arroba: ellatascine
+Linhas: 5380, 8985
+     arroba    Quem enviou
+ellatascine  STELLA SANTOS
+ellatascine Marina Sanches
+
+Arroba: ellorahaonne
+Linhas: 4207, 7196, 10020
+      arroba    Quem enviou
+ellorahaonne   Felipe Costa
+ellorahaonne Vinicius Costa
+ellorahaonne   FELIPE COSTA
+
+Arroba: emanueliescobar
+Linhas: 1308, 9746
+         arroba   Quem enviou
+emanueliescobar  Felipe Costa
+emanueliescobar Jerson Brenno
+
+Arroba: eslomarques
+Linhas: 225, 9060, 10176
+     arroba   Quem enviou
+eslomarques  Felipe Costa
+eslomarques  FELIPE COSTA
+eslomarques Jerson Brenno
+
+Arroba: esperonquegoste
+Linhas: 46, 8458
+         arroba  Quem enviou
+esperonquegoste Felipe Costa
+esperonquegoste         Yuna
+
+Arroba: eumaiteproenca
+Linhas: 348, 9609, 10427
+        arroba    Quem enviou
+eumaiteproenca   Felipe Costa
+eumaiteproenca   FELIPE COSTA
+eumaiteproenca Vinicius Costa
+
+Arroba: explorecomigo
+Linhas: 8349, 9829
+       arroba    Quem enviou
+explorecomigo   FELIPE COSTA
+explorecomigo Jesica Abraham
+
+Arroba: fequeirozofc
+Linhas: 5050, 5448
+      arroba      Quem enviou
+fequeirozofc VINICIUS F COSTA
+fequeirozofc    STELLA SANTOS
+
+Arroba: fgodoiv
+Linhas: 9749, 10423
+ arroba          Quem enviou
+fgodoiv        Jerson Brenno
+fgodoiv Ana Beatriz Honorato
+
+Arroba: fizemosumrole
+Linhas: 2378, 10563
+       arroba     Quem enviou
+fizemosumrole    Felipe Costa
+fizemosumrole Luidgi Viscardi
+
+Arroba: freire.math
+Linhas: 9096, 9827
+     arroba    Quem enviou
+freire.math Marina Sanches
+freire.math Jesica Abraham
+
+Arroba: gab_rbeiro
+Linhas: 53, 8195
+    arroba   Quem enviou
+gab_rbeiro  Felipe Costa
+gab_rbeiro Jerson Brenno
+
+Arroba: gabiaonde
+Linhas: 5081, 7275
+   arroba       Quem enviou
+gabiaonde Vinicius Nogueira
+gabiaonde     Jerson Brenno
+
+Arroba: gabiluthai
+Linhas: 263, 9257, 10560
+    arroba   Quem enviou
+gabiluthai  Felipe Costa
+gabiluthai  FELIPE COSTA
+gabiluthai Victor Tapias
+
+Arroba: gabimfelix
+Linhas: 4893, 10259
+    arroba   Quem enviou
+gabimfelix  Felipe Costa
+gabimfelix Jerson Brenno
+
+Arroba: gabimiazzi
+Linhas: 5079, 9668
+    arroba       Quem enviou
+gabimiazzi Vinicius Nogueira
+gabimiazzi   Eberton Ricardo
+
+Arroba: gabrielasobral
+Linhas: 897, 9104
+        arroba    Quem enviou
+gabrielasobral   Felipe Costa
+gabrielasobral Marina Sanches
+
+Arroba: gabrielveigac
+Linhas: 2076, 10348
+       arroba  Quem enviou
+gabrielveigac Felipe Costa
+gabrielveigac Mylena Putti
+
+Arroba: ganleygabriel
+Linhas: 1736, 9774
+       arroba   Quem enviou
+ganleygabriel  Felipe Costa
+ganleygabriel Jerson Brenno
+
+Arroba: gi.mouraofit
+Linhas: 5583, 10809
+      arroba   Quem enviou
+gi.mouraofit Ana Lu Acórsi
+gi.mouraofit Jerson Brenno
+
+Arroba: giashp
+Linhas: 983, 9671
+arroba     Quem enviou
+giashp    Felipe Costa
+giashp Eberton Ricardo
+
+Arroba: giovannabichels
+Linhas: 4096, 9669
+         arroba     Quem enviou
+giovannabichels    Felipe Costa
+giovannabichels Eberton Ricardo
+
+Arroba: giubeckers
+Linhas: 5086, 11025
+    arroba       Quem enviou
+giubeckers Vinicius Nogueira
+giubeckers     Jerson Brenno
+
+Arroba: gomesiasmine
+Linhas: 4905, 5085
+      arroba      Quem enviou
+gomesiasmine VINICIUS F COSTA
+gomesiasmine                x
+
+Arroba: goncalves.bea
+Linhas: 8573, 10544
+       arroba   Quem enviou
+goncalves.bea Jerson Brenno
+goncalves.bea Victor Tapias
+
+Arroba: helenaanaves
+Linhas: 4897, 11021
+      arroba   Quem enviou
+helenaanaves  Felipe Costa
+helenaanaves Jerson Brenno
+
+Arroba: helenaparadela
+Linhas: 5238, 5446
+        arroba   Quem enviou
+helenaparadela Ana Lu Acórsi
+helenaparadela STELLA SANTOS
+
+Arroba: hianeluizaa
+Linhas: 687, 10923
+     arroba   Quem enviou
+hianeluizaa        Vini C
+hianeluizaa Yuna Horikawa
+
+Arroba: home_gaabycosta
+Linhas: 707, 7423, 9046
+         arroba   Quem enviou
+home_gaabycosta  Felipe Costa
+home_gaabycosta Ana Lu Acórsi
+home_gaabycosta        Jesica
+
+Arroba: ianastudiess
+Linhas: 4696, 7564
+      arroba     Quem enviou
+ianastudiess    Felipe Costa
+ianastudiess Eberton Ricardo
+
+Arroba: igorcosso
+Linhas: 8404, 9193
+   arroba    Quem enviou
+igorcosso   FELIPE COSTA
+igorcosso Marina Sanches
+
+Arroba: igorochaoficial
+Linhas: 5817, 10854
+         arroba    Quem enviou
+igorochaoficial Rafael Marinho
+igorochaoficial   FELIPE COSTA
+
+Arroba: imharuyuki
+Linhas: 8032, 9718, 10449
+    arroba          Quem enviou
+imharuyuki         FELIPE COSTA
+imharuyuki         Rafa Marinho
+imharuyuki Ana Beatriz Honorato
+
+Arroba: ingridortiz.studies
+Linhas: 1622, 9236
+             arroba  Quem enviou
+ingridortiz.studies Felipe Costa
+ingridortiz.studies         Yuna
+
+Arroba: isa.salla
+Linhas: 1616, 8582, 10708
+   arroba   Quem enviou
+isa.salla  Felipe Costa
+isa.salla Jerson Brenno
+isa.salla        Robson
+
+Arroba: isa_binow
+Linhas: 4546, 10181, 10814, 11026
+   arroba   Quem enviou
+isa_binow  Felipe Costa
+isa_binow Jerson Brenno
+isa_binow Jerson Brenno
+isa_binow Jerson Brenno
+
+Arroba: isabellabustorff
+Linhas: 1788, 10330
+          arroba  Quem enviou
+isabellabustorff Felipe Costa
+isabellabustorff Mylena Putti
+
+Arroba: j0a0zinh0
+Linhas: 3376, 9037, 9741
+   arroba  Quem enviou
+j0a0zinh0 Felipe Costa
+j0a0zinh0 FELIPE COSTA
+j0a0zinh0 Rafa Marinho
+
+Arroba: jeeh__moraes
+Linhas: 167, 11001
+      arroba   Quem enviou
+jeeh__moraes  Felipe Costa
+jeeh__moraes Jerson Brenno
+
+Arroba: jennyffer_moraes
+Linhas: 4429, 10767
+          arroba     Quem enviou
+jennyffer_moraes    Felipe Costa
+jennyffer_moraes Eberton Ricardo
+
+Arroba: joannanagib
+Linhas: 1592, 8576
+     arroba   Quem enviou
+joannanagib  Felipe Costa
+joannanagib Jerson Brenno
+
+Arroba: joaocaetano
+Linhas: 7536, 10870
+     arroba  Quem enviou
+joaocaetano   Dhiancésar
+joaocaetano FELIPE COSTA
+
+Arroba: juaoseidel
+Linhas: 8196, 8570, 10321
+    arroba   Quem enviou
+juaoseidel Jerson Brenno
+juaoseidel Jerson Brenno
+juaoseidel Yuna Horikawa
+
+Arroba: juliagotti
+Linhas: 731, 8614
+    arroba  Quem enviou
+juliagotti Felipe Costa
+juliagotti         Yuna
+
+Arroba: juliaottoni
+Linhas: 7600, 9678
+     arroba     Quem enviou
+juliaottoni    Sandi Kaefer
+juliaottoni Eberton Ricardo
+
+Arroba: junevves
+Linhas: 5058, 10378
+  arroba      Quem enviou
+junevves VINICIUS F COSTA
+junevves     Mylena Putti
+
+Arroba: kahpeerez
+Linhas: 744, 9832, 9985
+   arroba    Quem enviou
+kahpeerez   Felipe Costa
+kahpeerez Jesica Abraham
+kahpeerez   FELIPE COSTA
+
+Arroba: lalalembrance
+Linhas: 1377, 9864
+       arroba  Quem enviou
+lalalembrance Felipe Costa
+lalalembrance         Yuna
+
+Arroba: lanahhsilva
+Linhas: 1054, 7565
+     arroba     Quem enviou
+lanahhsilva    Felipe Costa
+lanahhsilva Eberton Ricardo
+
+Arroba: laried
+Linhas: 5053, 10343
+arroba      Quem enviou
+laried VINICIUS F COSTA
+laried     Mylena Putti
+
+Arroba: larikaffer
+Linhas: 2146, 9103
+    arroba    Quem enviou
+larikaffer   Felipe Costa
+larikaffer Marina Sanches
+
+Arroba: larinahas
+Linhas: 4705, 10376
+   arroba  Quem enviou
+larinahas Felipe Costa
+larinahas Mylena Putti
+
+Arroba: larissalodisalum
+Linhas: 10320, 10539
+          arroba   Quem enviou
+larissalodisalum Yuna Horikawa
+larissalodisalum Victor Tapias
+
+Arroba: laura.amorimc
+Linhas: 5124, 9349
+       arroba       Quem enviou
+laura.amorimc Vinicius Nogueira
+laura.amorimc          Ju Miele
+
+Arroba: lauraalmeida_
+Linhas: 4923, 7080
+       arroba        Quem enviou
+lauraalmeida_   VINICIUS F COSTA
+lauraalmeida_ Stella Agostiniana
+
+Arroba: lauraleencar
+Linhas: 7476, 7623, 11024
+      arroba   Quem enviou
+lauraleencar        karine
+lauraleencar  sandi Kaefer
+lauraleencar Jerson Brenno
+
+Arroba: leeehporto
+Linhas: 2294, 10253
+    arroba   Quem enviou
+leeehporto  Felipe Costa
+leeehporto Jerson Brenno
+
+Arroba: leiturasdatrish
+Linhas: 3575, 9532
+         arroba    Quem enviou
+leiturasdatrish   Felipe Costa
+leiturasdatrish Marina Sanches
+
+Arroba: leo_young_
+Linhas: 5440, 10916
+    arroba   Quem enviou
+leo_young_ STELLA SANTOS
+leo_young_ Yuna Horikawa
+
+Arroba: liri_martinss
+Linhas: 2297, 10015, 10257
+       arroba   Quem enviou
+liri_martinss  Felipe Costa
+liri_martinss  FELIPE COSTA
+liri_martinss Jerson Brenno
+
+Arroba: littera.tura
+Linhas: 9526, 10161
+      arroba    Quem enviou
+littera.tura Marina Sanches
+littera.tura   Rafa Marinho
+
+Arroba: livresenhas
+Linhas: 906, 10164
+     arroba  Quem enviou
+livresenhas Felipe Costa
+livresenhas Rafa Marinho
+
+Arroba: lu_assaf
+Linhas: 3433, 8615, 9910
+  arroba  Quem enviou
+lu_assaf Felipe Costa
+lu_assaf         Yuna
+lu_assaf FELIPE COSTA
+
+Arroba: lua_andrad
+Linhas: 4166, 9347, 10180
+    arroba   Quem enviou
+lua_andrad  Felipe Costa
+lua_andrad  FELIPE COSTA
+lua_andrad Jerson Brenno
+
+Arroba: lucaslacerdanutri
+Linhas: 5407, 7621
+           arroba   Quem enviou
+lucaslacerdanutri STELLA SANTOS
+lucaslacerdanutri  sandi Kaefer
+
+Arroba: luisa_alvarenga
+Linhas: 1300, 9113, 9709
+         arroba  Quem enviou
+luisa_alvarenga Felipe Costa
+luisa_alvarenga   Dhiancésar
+luisa_alvarenga FELIPE COSTA
+
+Arroba: luizabonna
+Linhas: 1790, 8581
+    arroba   Quem enviou
+luizabonna  Felipe Costa
+luizabonna Jerson Brenno
+
+Arroba: lulugondim
+Linhas: 4913, 5392
+    arroba      Quem enviou
+lulugondim VINICIUS F COSTA
+lulugondim    STELLA SANTOS
+
+Arroba: lumena.aleluia
+Linhas: 5133, 7225
+        arroba    Quem enviou
+lumena.aleluia  STELLA SANTOS
+lumena.aleluia Vinicius Costa
+
+Arroba: mah_martthins
+Linhas: 5758, 7221, 10505
+       arroba    Quem enviou
+mah_martthins   Felipe Costa
+mah_martthins Vinicius Costa
+mah_martthins   FELIPE COSTA
+
+Arroba: mahmirandd
+Linhas: 890, 9170
+    arroba   Quem enviou
+mahmirandd        Vini C
+mahmirandd Jerson Brenno
+
+Arroba: maju.engracia_
+Linhas: 4253, 8555
+        arroba   Quem enviou
+maju.engracia_  Felipe Costa
+maju.engracia_ Jerson Brenno
+
+Arroba: majusalgaado
+Linhas: 1745, 10304, 10554
+      arroba   Quem enviou
+majusalgaado  Felipe Costa
+majusalgaado  FELIPE COSTA
+majusalgaado Victor Tapias
+
+Arroba: malulofit
+Linhas: 2286, 7262
+   arroba   Quem enviou
+malulofit  Felipe Costa
+malulofit Jerson Brenno
+
+Arroba: maluvizzato
+Linhas: 1640, 9238
+     arroba  Quem enviou
+maluvizzato Felipe Costa
+maluvizzato         Yuna
+
+Arroba: manuela__couri
+Linhas: 4916, 7081
+        arroba        Quem enviou
+manuela__couri   VINICIUS F COSTA
+manuela__couri Stella Agostiniana
+
+Arroba: mari.medusp
+Linhas: 869, 9231
+     arroba        Quem enviou
+mari.medusp Stella Agostiniana
+mari.medusp               Yuna
+
+Arroba: mariacarolina.capo
+Linhas: 2347, 10474
+            arroba    Quem enviou
+mariacarolina.capo   Felipe Costa
+mariacarolina.capo Ana Lu Acórsi 
+
+Arroba: marialdgg
+Linhas: 3634, 9296, 10550
+   arroba   Quem enviou
+marialdgg  Felipe Costa
+marialdgg  FELIPE COSTA
+marialdgg Victor Tapias
+
+Arroba: mariavictoria_toria
+Linhas: 4799, 9260, 10543
+             arroba   Quem enviou
+mariavictoria_toria  Felipe Costa
+mariavictoria_toria  FELIPE COSTA
+mariavictoria_toria Victor Tapias
+
+Arroba: mariduds
+Linhas: 1462, 7566
+  arroba     Quem enviou
+mariduds    Felipe Costa
+mariduds Eberton Ricardo
+
+Arroba: marifrnd
+Linhas: 1525, 8983
+  arroba    Quem enviou
+marifrnd   Felipe Costa
+marifrnd Marina Sanches
+
+Arroba: marimerlim
+Linhas: 3335, 8574
+    arroba   Quem enviou
+marimerlim  Mylena Putti
+marimerlim Jerson Brenno
+
+Arroba: marina_baldin
+Linhas: 6590, 9773, 11031
+       arroba   Quem enviou
+marina_baldin  Felipe Costa
+marina_baldin  FELIPE COSTA
+marina_baldin Jerson Brenno
+
+Arroba: marinacardoso.lima
+Linhas: 2492, 9747
+            arroba   Quem enviou
+marinacardoso.lima  Felipe Costa
+marinacardoso.lima Jerson Brenno
+
+Arroba: marinaparralo
+Linhas: 47, 10987
+       arroba     Quem enviou
+marinaparralo    Felipe Costa
+marinaparralo Eberton Ricardo
+
+Arroba: martinx.duda
+Linhas: 988, 9168
+      arroba   Quem enviou
+martinx.duda        Vini C
+martinx.duda Jerson Brenno
+
+Arroba: maysa_souto
+Linhas: 2309, 10503, 11002
+     arroba   Quem enviou
+maysa_souto  Felipe Costa
+maysa_souto  FELIPE COSTA
+maysa_souto Jerson Brenno
+
+Arroba: medraissa
+Linhas: 1379, 9859
+   arroba  Quem enviou
+medraissa Felipe Costa
+medraissa         Yuna
+
+Arroba: meel.auli
+Linhas: 1772, 10812, 11017
+   arroba   Quem enviou
+meel.auli  Felipe Costa
+meel.auli Jerson Brenno
+meel.auli Jerson Brenno
+
+Arroba: miacarvalhoo
+Linhas: 692, 10157, 10394
+      arroba  Quem enviou
+miacarvalhoo Felipe Costa
+miacarvalhoo Rafa Marinho
+miacarvalhoo FELIPE COSTA
+
+Arroba: midmayra
+Linhas: 3234, 7644
+  arroba       Quem enviou
+midmayra Ana Luiza Acórsi 
+midmayra      sandi Kaefer
+
+Arroba: mika.sawadaa
+Linhas: 993, 8987
+      arroba    Quem enviou
+mika.sawadaa   Felipe Costa
+mika.sawadaa Marina Sanches
+
+Arroba: monicamamudo
+Linhas: 7914, 9679
+      arroba     Quem enviou
+monicamamudo    FELIPE COSTA
+monicamamudo Eberton Ricardo
+
+Arroba: mubizelli
+Linhas: 611, 9311, 9833
+   arroba    Quem enviou
+mubizelli   Felipe Costa
+mubizelli   FELIPE COSTA
+mubizelli Jesica Abraham
+
+Arroba: nanypeople
+Linhas: 8025, 10428
+    arroba    Quem enviou
+nanypeople   FELIPE COSTA
+nanypeople Vinicius Costa
+
+Arroba: natalyaericka
+Linhas: 7522, 9752
+       arroba   Quem enviou
+natalyaericka    Dhiancésar
+natalyaericka Jerson Brenno
+
+Arroba: natingraci
+Linhas: 1178, 9043
+    arroba  Quem enviou
+natingraci Felipe Costa
+natingraci     Ju Miele
+
+Arroba: nicoleprazeres
+Linhas: 726, 9675
+        arroba     Quem enviou
+nicoleprazeres    Felipe Costa
+nicoleprazeres Eberton Ricardo
+
+Arroba: nikicumerlato
+Linhas: 7159, 11032
+       arroba     Quem enviou
+nikicumerlato Gabriel Cardoso
+nikicumerlato   Jerson Brenno
+
+Arroba: oifrancine
+Linhas: 6750, 9677
+    arroba       Quem enviou
+oifrancine Vinicius Nogueira
+oifrancine   Eberton Ricardo
+
+Arroba: paola.aleksandra
+Linhas: 3574, 8429
+          arroba   Quem enviou
+paola.aleksandra  Felipe Costa
+paola.aleksandra Monique Balan
+
+Arroba: patriciavogtt
+Linhas: 7657, 7916
+       arroba  Quem enviou
+patriciavogtt sandi Kaefer
+patriciavogtt FELIPE COSTA
+
+Arroba: paulomacedop
+Linhas: 8316, 9840
+      arroba   Quem enviou
+paulomacedop  André Santos
+paulomacedop Jerson Brenno
+
+Arroba: pegadelha
+Linhas: 10569, 10827
+   arroba     Quem enviou
+pegadelha Luidgi Viscardi
+pegadelha      Dhiancésar
+
+Arroba: pessoafernanda
+Linhas: 1645, 9348
+        arroba  Quem enviou
+pessoafernanda Felipe Costa
+pessoafernanda     Ju Miele
+
+Arroba: polianabragab
+Linhas: 157, 10757
+       arroba     Quem enviou
+polianabragab    Felipe Costa
+polianabragab Eberton Ricardo
+
+Arroba: rafadomika
+Linhas: 8296, 9092
+    arroba    Quem enviou
+rafadomika   FELIPE COSTA
+rafadomika Marina Sanches
+
+Arroba: rafaellabaltar
+Linhas: 274, 9039, 9121
+        arroba  Quem enviou
+rafaellabaltar Felipe Costa
+rafaellabaltar FELIPE COSTA
+rafaellabaltar   Dhiancésar
+
+Arroba: raquelrealoficial
+Linhas: 6821, 8461
+           arroba  Quem enviou
+raquelrealoficial Felipe Costa
+raquelrealoficial         Yuna
+
+Arroba: rebecalira
+Linhas: 3380, 9939, 10188
+    arroba   Quem enviou
+rebecalira  Felipe Costa
+rebecalira  FELIPE COSTA
+rebecalira Jerson Brenno
+
+Arroba: renata.c.schneider
+Linhas: 9050, 9459
+            arroba Quem enviou
+renata.c.schneider      Jesica
+renata.c.schneider  Dhiancésar
+
+Arroba: reviewsdomustache
+Linhas: 8896, 10821
+           arroba  Quem enviou
+reviewsdomustache FELIPE COSTA
+reviewsdomustache   Dhiancésar
+
+Arroba: reviewsporsp
+Linhas: 1844, 9692, 10823
+      arroba  Quem enviou
+reviewsporsp Felipe Costa
+reviewsporsp FELIPE COSTA
+reviewsporsp   Dhiancésar
+
+Arroba: rhai
+Linhas: 2847, 9848
+arroba   Quem enviou
+  rhai  Felipe Costa
+  rhai Jerson Brenno
+
+Arroba: rodrigo.delorenzi
+Linhas: 7300, 8453
+           arroba    Quem enviou
+rodrigo.delorenzi Marina Sanches
+rodrigo.delorenzi           Yuna
+
+Arroba: rodrigomocoto
+Linhas: 2764, 10915
+       arroba   Quem enviou
+rodrigomocoto  Felipe Costa
+rodrigomocoto Yuna Horikawa
+
+Arroba: roquedigao
+Linhas: 4468, 9189
+    arroba    Quem enviou
+roquedigao   Felipe Costa
+roquedigao Marina Sanches
+
+Arroba: roteiro.sp
+Linhas: 2440, 10422
+    arroba          Quem enviou
+roteiro.sp         Felipe Costa
+roteiro.sp Ana Beatriz Honorato
+
+Arroba: rotinadaray
+Linhas: 9009, 9851
+     arroba     Quem enviou
+rotinadaray Eberton Ricardo
+rotinadaray   Jerson Brenno
+
+Arroba: rufislore
+Linhas: 7793, 10170
+   arroba   Quem enviou
+rufislore  FELIPE COSTA
+rufislore Jerson Brenno
+
+Arroba: sabrinanunesfj
+Linhas: 5604, 11008
+        arroba   Quem enviou
+sabrinanunesfj  Felipe Costa
+sabrinanunesfj Jerson Brenno
+
+Arroba: sandracostareal
+Linhas: 4109, 9837, 9950
+         arroba   Quem enviou
+sandracostareal  Felipe Costa
+sandracostareal Jerson Brenno
+sandracostareal  FELIPE COSTA
+
+Arroba: sarahkanadani
+Linhas: 1055, 10308
+       arroba   Quem enviou
+sarahkanadani  Felipe Costa
+sarahkanadani Yuna Horikawa
+
+Arroba: sofia.schaadt
+Linhas: 958, 10558
+       arroba   Quem enviou
+sofia.schaadt  Felipe Costa
+sofia.schaadt Victor Tapias
+
+Arroba: sofiagccastro
+Linhas: 3756, 10537
+       arroba   Quem enviou
+sofiagccastro  Felipe Costa
+sofiagccastro Karine Leite 
+
+Arroba: sofidisse
+Linhas: 4107, 6392
+   arroba    Quem enviou
+sofidisse   Felipe Costa
+sofidisse Vinicius Costa
+
+Arroba: sophia_bianco_
+Linhas: 7316, 9085
+        arroba    Quem enviou
+sophia_bianco_       Ju Miele
+sophia_bianco_ Marina Sanches
+
+Arroba: sophiacitdaily
+Linhas: 5120, 9233
+        arroba Quem enviou
+sophiacitdaily           x
+sophiacitdaily        Yuna
+
+Arroba: tabata_meumundoatipico
+Linhas: 5799, 7702
+                arroba    Quem enviou
+tabata_meumundoatipico Rafael Marinho
+tabata_meumundoatipico   FELIPE COSTA
+
+Arroba: taisedias
+Linhas: 3647, 10324
+   arroba   Quem enviou
+taisedias  Felipe Costa
+taisedias Yuna Horikawa
+
+Arroba: tatabookshow
+Linhas: 4486, 10159
+      arroba  Quem enviou
+tatabookshow Felipe Costa
+tatabookshow Rafa Marinho
+
+Arroba: teste
+Linhas: 8026, 8945
+arroba  Quem enviou
+ teste FELIPE COSTA
+ teste         Yuna
+
+Arroba: teteclementino
+Linhas: 1150, 10437
+        arroba      Quem enviou
+teteclementino VINICIUS F COSTA
+teteclementino   Vinicius Costa
+
+Arroba: thata_falcao
+Linhas: 1310, 9672
+      arroba     Quem enviou
+thata_falcao    Felipe Costa
+thata_falcao Eberton Ricardo
+
+Arroba: ujoaozinho
+Linhas: 7323, 9742, 10866
+    arroba  Quem enviou
+ujoaozinho     Ju Miele
+ujoaozinho Rafa Marinho
+ujoaozinho FELIPE COSTA
+
+Arroba: valentinaarcher
+Linhas: 5387, 7361
+         arroba   Quem enviou
+valentinaarcher STELLA SANTOS
+valentinaarcher        Karine
+
+Arroba: veronica_heringer
+Linhas: 9450, 10833
+           arroba     Quem enviou
+veronica_heringer Geovana Emilia 
+veronica_heringer      Dhiancésar
+
+Arroba: viajandoporelas
+Linhas: 5119, 8962
+         arroba     Quem enviou
+viajandoporelas  Rafael Marinho
+viajandoporelas Daniel Carvalho
+
+Arroba: viajarmelhoremedio
+Linhas: 7605, 10819
+            arroba   Quem enviou
+viajarmelhoremedio  sandi Kaefer
+viajarmelhoremedio Jerson Brenno
+
+Arroba: vitoriaalage
+Linhas: 661, 10347
+      arroba  Quem enviou
+vitoriaalage       Vini C
+vitoriaalage Mylena Putti
+
+Arroba: williamozeki
+Linhas: 7136, 9719
+      arroba      Quem enviou
+williamozeki Geovana Benedito
+williamozeki     Rafa Marinho
+
+Arroba: yorkbela
+Linhas: 8264, 9084, 9716
+  arroba    Quem enviou
+yorkbela   FELIPE COSTA
+yorkbela Marina Sanches
+yorkbela   Rafa Marinho
+
+Arroba: zarasantiiago
+Linhas: 7650, 8840
+       arroba    Quem enviou
+zarasantiiago   sandi Kaefer
+zarasantiiago Marina Sanches
